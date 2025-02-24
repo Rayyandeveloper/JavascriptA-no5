@@ -1,0 +1,22 @@
+let a = 4
+document.write("Table of "+ a + "-----------")
+let b = a * 1
+document.write(a + " x "+ 1 + " = "+ b + "-----------")
+let c = a * 2
+document.write(a + " x "+ 1 + " = "+ c + "-----------")
+let d = a * 3
+document.write(a + " x "+ 1 + " = "+ d + "-----------")
+let e = a * 4
+document.write(a + " x "+ 1 + " = "+ e + "-----------")
+let f = a * 5
+document.write(a + " x "+ 1 + " = "+ f + "-----------")
+let g = a * 6 
+document.write(a + " x "+ 1 + " = "+ g + "-----------")
+let h = a * 7
+document.write(a + " x "+ 1 + " = "+ h + "-----------")
+let i = a * 8
+document.write(a + " x "+ 1 + " = "+ i + "-----------")
+let j = a * 9
+document.write(a + " x "+ 1 + " = "+ j + "-----------")
+let k = a * 10
+document.write(a + " x "+ 1 + " = "+ k + "-----------")
